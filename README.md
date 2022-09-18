@@ -1,3 +1,3 @@
 # KMeans
 
-Simple KMeans algorithm to cluster data.
+Simple K-Means algorithm to cluster data.
